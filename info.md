@@ -49,3 +49,7 @@
 >git checkout master
 
 Вернуться к актуальному состоянию 
+
+## Добавляем картинку
+
+![](interesnye-fakty-o-nyu-jorke.jpg)
