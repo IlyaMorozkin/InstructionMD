@@ -11,3 +11,15 @@
 >git config --global user.name "name"
 
 >git config --globa user.email "mail"
+
+## Добавление файлов в репозиторий 
+
+Для сохранения новой информации необходимо нажать ctrl+s
+
+>git add file name
+
+Добавляет файл file name для отслеживания 
+
+>git commit -m "some messege"
+
+Фиксирует все файлы которые были добавлены для отслеживания
