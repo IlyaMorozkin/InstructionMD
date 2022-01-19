@@ -71,6 +71,8 @@
 Для перемещения к ветке:
 >git checkout branch_name
 
+Для просмотра истории веток:
+>git log --graph
 
 
 
