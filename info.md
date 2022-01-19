@@ -80,6 +80,11 @@
 Удалить ветку с именем branch_name можно командой:
 >git branch -d branch name 
 
+## Слияние веток и решение конфликтов 
+Команда для выкачивания информации из ветки 
+branch_name в текущую ветку:
+>git merge branch_name 
+
 Для удаления ветки игнорируя все ошибки:
 >git branch -D branch name 
 
