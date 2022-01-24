@@ -123,6 +123,8 @@ branch_name в текущую ветку:
 
 ## Что бы связать локальный репозиторий и удаленный:
 >git remote add origin и ссылка на удаленный репозиторий 
+
 >далее git push
+
 >git push --set-upstream origin master
 
